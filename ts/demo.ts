@@ -7,7 +7,7 @@ namespace BasicTypes{
     }
   
     namespace Declarations{
-      const name:string = "42"
+      const name:string = "Hugo"
       let state:boolean = true
       state = false
     }
